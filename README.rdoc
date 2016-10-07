@@ -1,0 +1,12 @@
+== README
+
+This app is for signing in users with their gmails by using OmniAuth and analyzing their calendar events.
+Also, it's sending the weekly email to the users with their comming events notification.
+
+Main technologies used:
+
+* OmniAuth
+
+* Google Sign-in
+
+* Google Calendar Access
